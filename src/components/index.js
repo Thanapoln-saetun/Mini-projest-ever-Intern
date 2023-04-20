@@ -1,0 +1,15 @@
+export { default as Header } from './Header';
+export { default as MainContainer } from './MainContainer';
+export { default as CreateContainer } from './CreateContainer';
+export { default as HomeContainer } from './HomeContainer';
+export { default as Loader } from "./Loader";
+export { default as Model } from "./Modal";
+export { default as Disease } from "./Disease";
+export { default as RowContainer } from "./RowContainer";
+export { default as MenuContainer } from "./MenuContainer";
+export { default as ContactForm } from "./ContactForm";
+export { default as Apicoviddata } from "./Apicoviddata";
+export { default as HomeRegister } from "./HomeRegister";
+export { default as AddRegister} from "./AddRegister";
+export { default as Edit} from "./Edit";
+export { default as Details} from "./Details";
